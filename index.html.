@@ -22,8 +22,8 @@ href="INDICADOR%20RECUPERACION%20DE%20INVENTARIO%20STICKS_archivos/filelist.xml"
  var c_lTabs=2;
 
  var c_rgszSh=new Array(c_lTabs);
- c_rgszSh[0] = "TD 2026";
- c_rgszSh[1] = "BASE DATOS OBSERVADOS 2027";
+ c_rgszSh[0] = "TDÂ 2026";
+ c_rgszSh[1] = "BASEÂ DATOSÂ OBSERVADOSÂ 2027";
 
 
 
@@ -330,7 +330,7 @@ function fnSetActiveSheet(iSh)
  <frame src="INDICADOR%20RECUPERACION%20DE%20INVENTARIO%20STICKS_archivos/tabstrip.htm" name="frTabs" marginwidth=0 marginheight=0>
  <noframes>
   <body>
-   <p>Esta página utiliza marcos que su explorador no admite.</p>
+   <p>Esta pÃ¡gina utiliza marcos que su explorador no admite.</p>
   </body>
  </noframes>
 </frameset>
